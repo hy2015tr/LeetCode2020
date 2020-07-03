@@ -76,14 +76,6 @@ var addTwoNumbers = function(p1, p2) {
     return resultHead.next;    
 };
 
-
-// Test Data
-let p1 = createLinkedListFromArray([2,4,3]);
-let p2 = createLinkedListFromArray([5,6,4]);
-const result1 = addTwoNumbers(p1,p2);
-const result2 = createArrayFromLinkedList(result1);
-console.log(result2);
-
 ```
 
 ## **Test Data:**
