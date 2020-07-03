@@ -1,6 +1,4 @@
-# **692 - Top K Frequent Words** 
-
-<span style="font-size: 20px; font-weight: bold; color:green">[ Medium ]</span>
+# **692 - Top K Frequent Words [M]** 
 
 Given a non-empty list of words, return the *k* most frequent elements.
 

@@ -1,6 +1,4 @@
-# **347 - Top K Frequent Elements**
-
-<span style="font-size: 20px; font-weight: bold; color:green">[ Medium ]</span>
+# **347 - Top K Frequent Elements [M]**
 
 Given a non-empty array of integers, return the *k* most frequent elements.
 

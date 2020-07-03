@@ -1,6 +1,4 @@
-# **2 - Add Two Numbers**
-
-<span style="font-size: 20px; font-weight: bold; color:green">[ Medium ]</span>
+# **2 - Add Two Numbers [M]**
 
 You are given two **non-empty** linked lists representing two non-negative
 integers. The digits are stored in **reverse order** and each of their nodes
