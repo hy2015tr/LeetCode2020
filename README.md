@@ -18,4 +18,5 @@ Sample LeetCode questions and answers in JavaScript Language.
 ## *00832 - Flipping an Image [E]*
 ## *00905 - Sort Array By Parity [E]*
 ## *00937 - Reorder Data in Log Files [E]*
+## *01021 - Remove Outermost Parentheses [E]*
 
