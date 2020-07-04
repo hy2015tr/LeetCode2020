@@ -10,4 +10,5 @@ Sample LeetCode questions and answers in JavaScript Language.
 ## *00202 - Happy Number [E]*
 ## *00283 - Move Zeroes [E]*
 ## *00347 - Top K Frequent Elements [M]*
+## *00387 - First Unique Character in a String [E]*
 ## *00692 - Top K Frequent Words [M]* 
