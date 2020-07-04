@@ -14,3 +14,4 @@ Sample LeetCode questions and answers in JavaScript Language.
 ## *00692 - Top K Frequent Words [M]*
 ## *00709 - To Lower Case [E]*
 ## *00771 - Jewels and Stones [E]*
+## *00804 - Unique Morse Code Words [E]*
