@@ -15,3 +15,4 @@ Sample LeetCode questions and answers in JavaScript Language.
 ## *00709 - To Lower Case [E]*
 ## *00771 - Jewels and Stones [E]*
 ## *00804 - Unique Morse Code Words [E]*
+## *00832 - Flipping an Image [E]*
