@@ -1,4 +1,4 @@
-# **7 - Reverse Integer – [E]**
+# **7 - Reverse Integer [E]**
 
 Given a 32-bit signed integer, reverse digits of an integer.
 
