@@ -23,5 +23,5 @@ const test03_products = ["bags","baggage","banner","box","cloths"];
 const test03_searchWord = "bags";
 const test04_products =  ["havana"];
 const test04_searchWord = "tatiana";
-const result = suggestedProducts(test04_products, test04_searchWord);
+const result = suggestedProducts(test01_products, test01_searchWord);
 console.log(result);
