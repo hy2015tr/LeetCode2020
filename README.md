@@ -8,8 +8,9 @@ Sample LeetCode questions and answers in JavaScript Language.
 ## *00005 - Longest Palindromic Substring [M]*
 ## *00007 - Reverse Integer [E]*
 ## *00053 - Maximum Subarray [E]*
-## *00127 - Word Ladder [E]*
+## *00127 - Word Ladder [M]*
 ## *00136 - Single Number [E]*
+## *00200 - Number of Islands [M]*
 ## *00202 - Happy Number [E]*
 ## *00283 - Move Zeroes [E]*
 ## *00347 - Top K Frequent Elements [M]*
