@@ -1,4 +1,4 @@
-**3 - Longest Substring Without Repeating Characters [M]**
+# **3 - Longest Substring Without Repeating Characters [M]**
 
 Given a string, find the length of the **longest substring** without repeating
 characters.
@@ -31,7 +31,7 @@ Note that the answer must be a **substring**, "pwke" is a *subsequence* and not
 a substring.
 
 
-## **Solution-2:**
+## **Solution:**
 
 ```JavaScript
 

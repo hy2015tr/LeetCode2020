@@ -5,6 +5,7 @@ Sample LeetCode questions and answers in JavaScript Language.
 ## *00001 - Two Sum [E]*
 ## *00002 - Add Two Numbers [M]*
 ## *00003 - Longest Substring Without Repeating Characters [M]*
+## *00005 - Longest Palindromic Substring [M]*
 ## *00007 - Reverse Integer [E]*
 ## *00053 - Maximum Subarray [E]*
 ## *00136 - Single Number [E]*
