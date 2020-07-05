@@ -27,7 +27,7 @@ all surrounded by water.
 
 **Output:** 3
 
-## **Solution-2:**
+## **Solution:**
 
 ```JavaScript
 
